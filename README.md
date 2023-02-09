@@ -13,7 +13,9 @@
 
 
 ## 🌐 Contacts:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]("https://linkedin.com/in/zpinaev)
+<a href="https://linkedin.com/in/zpinaev">
+  <img height="35" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 
 # 💻 Tech Stack:
