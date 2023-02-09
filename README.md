@@ -1,4 +1,11 @@
-### Hi there, I'm Zakhar 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C900FF,100:330040&height=150&section=header&text=Hello%20there,%20I'm%20Zakhar&fontColor=d6ace6&fontSize=55&fontAlignY=35"/>
+</p>
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33491221/217827503-27ca0af9-153c-44ca-9c2c-3a4c462330b3.gif" width=50% height=50%>
+</p>
 
 
 # 💫 About Me:
@@ -6,8 +13,7 @@
 
 
 ## 🌐 Contacts:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zpinaev) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]("https://linkedin.com/in/zpinaev)
 
 
 # 💻 Tech Stack:
@@ -36,11 +42,12 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShumwayGordon&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShumwayGordon&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShumwayGordon&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ShumwayGordon&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=ShumwayGordon&theme=midnight-purple&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShumwayGordon&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShumwayGordon&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C900FF,100:330040&height=110&section=footer&fontColor=d6ace6&fontSize=55&fontAlignY=40"/>
+</p>
