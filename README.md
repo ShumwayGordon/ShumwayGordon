@@ -8,17 +8,17 @@
 </p>
 
 
-# 💫 About Me:
+# 💫 About Me
 👨‍💻 Data Scientist and Machine Learning Researcher<br>🎓 Bachelor's and Master's degrees at ITMO University<br>🎯 Experience with RecSys, NLP, time-series, tabular, Big Data, Voxel Data, Evo Algs
 
 
-## 🌐 Contacts:
+## 🌐 Contacts
 <a href="https://linkedin.com/in/zpinaev">
   <img height="35" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -43,15 +43,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShumwayGordon&theme=midnight-purple&hide_border=true) ![](https://github-readme-stats.vercel.app/api?username=ShumwayGordon&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShumwayGordon&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
-
+# 📅 My GitHub History
 ![Snake animation](https://github.com/ShumwayGordon/ShumwayGordon/blob/output/github-contribution-grid-snake-dark.svg)
 
 
