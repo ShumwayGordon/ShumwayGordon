@@ -52,6 +52,8 @@
   <img alt="github-snake" src="github-snake.svg">
 </picture>
 
+![Snake animation](https://github.com/ShumwayGordon/ShumwayGordon/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShumwayGordon&icon=0&color=11)](https://visitcount.itsvg.in)
