@@ -12,7 +12,7 @@
 👨‍💻 Data Scientist and Machine Learning Researcher<br>🎓 Bachelor's and Master's degrees at ITMO University<br>🎯 Experience with RecSys, NLP, time-series, tabular, Big Data, Voxel Data, Evo Algs
 
 
-## 🌐 Contacts
+# 🌐 Contacts
 <a href="https://linkedin.com/in/zpinaev">
   <img height="35" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -47,11 +47,19 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShumwayGordon&theme=midnight-purple&hide_border=true) ![](https://github-readme-stats.vercel.app/api?username=ShumwayGordon&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShumwayGordon&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 📅 My GitHub History
-![Snake animation](https://github.com/ShumwayGordon/ShumwayGordon/blob/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center">
+  <img src="https://github.com/ShumwayGordon/ShumwayGordon/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShumwayGordon&icon=0&color=11)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img height="20" src="https://visitcount.itsvg.in/api?id=ShumwayGordon&icon=0&color=11"/>
+  </a>
+</p>
 
 
 <p align="center">
