@@ -61,6 +61,10 @@
   </a>
 </p>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ShumwayGordon&label=Profile%20Views&color=11&icon=5&pretty=false" />
+</a>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C900FF,100:330040&height=110&section=footer&fontColor=d6ace6&fontSize=55&fontAlignY=40"/>
