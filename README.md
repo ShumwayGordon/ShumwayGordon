@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img height="23" src="https://visitcount.itsvg.in/api?id=ShumwayGordon&icon=0&color=11"/>
+    <img height="23" src="https://visitcount.itsvg.in/api?id=ShumwayGordon&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in"/>
   </a>
 </p>
 
