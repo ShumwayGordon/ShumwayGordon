@@ -57,13 +57,9 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img height="23" src="https://visitcount.itsvg.in/api?id=ShumwayGordon&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in"/>
+    <img height="28" src="https://api.visitorbadge.io/api/visitors?path=ShumwayGordon&label=Profile%20Views&labelColor=%23622c7b&countColor=%23a068cf")/>
   </a>
 </p>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ShumwayGordon&label=Profile%20Views&color=11&icon=5&pretty=false" />
-</a>
 
 
 <p align="center">
